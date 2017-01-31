@@ -4,7 +4,7 @@ MAINTAINER Jan Christian Grünhage <mail@janchristiangruenhage.de>
 ENV GOPATH /gopath
 ENV CADDY_REPO_OWNER mholt
 ENV CADDY_REPO_NAME caddy
-ENV CADDY_BRANCH tags/v0.9.4
+ENV CADDY_BRANCH tags/v0.9.5
 ENV CADDYPATH /caddy
 ENV UID 192
 ENV GID 192
