@@ -1,0 +1,1 @@
+	_ "github.com/abiosoft/caddy-git"
