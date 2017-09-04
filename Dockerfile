@@ -4,7 +4,7 @@ MAINTAINER Jan Christian Grünhage <jan.christian@gruenhage.xyz>
 ENV GOPATH=/gopath \
       CADDY_REPO_OWNER=mholt \
       CADDY_REPO_NAME=caddy \
-      CADDY_BRANCH=tags/v0.10.4 \
+      CADDY_BRANCH=tags/v0.10.7 \
       CADDYPATH=/caddy \
       UID=192 \
       GID=192

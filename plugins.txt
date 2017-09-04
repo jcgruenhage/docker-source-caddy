@@ -1,1 +1,4 @@
 	_ "github.com/abiosoft/caddy-git"
+	_ "github.com/caddyserver/forwardproxy"
+	_ "github.com/zikes/gopkg"
+	_ "github.com/miekg/caddy-prometheus"
