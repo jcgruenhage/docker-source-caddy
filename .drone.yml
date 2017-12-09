@@ -1,0 +1,8 @@
+pipeline:
+        docker:
+                image: plugins/docker
+                repo: docker.jcg.re/caddy
+                registry: docker.jcg.re
+                secrets: [ docker_username, docker_password ]
+                tags: latest
+

@@ -1,10 +1,10 @@
-FROM	jcgruenhage/baseimage-alpine
+FROM docker.jcg.re/base-alpine
 MAINTAINER Jan Christian Grünhage <jan.christian@gruenhage.xyz>
 
 ENV GOPATH=/gopath \
       CADDY_REPO_OWNER=mholt \
       CADDY_REPO_NAME=caddy \
-      CADDY_BRANCH=tags/v0.10.7 \
+      CADDY_BRANCH=tags/v0.10.10 \
       CADDYPATH=/caddy \
       UID=192 \
       GID=192
